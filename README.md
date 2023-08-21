@@ -1,10 +1,9 @@
 # advanced-stat-bot
 
 
-#Kalite Asla Tesadüf Değildir.
+# Kalite Asla Tesadüf Değildir.
 
 > Satın Almak Icin Discord: mysterious3
-
 
 
 ![image](https://github.com/mysteriouss3/advanced-stat-bot/assets/142053394/7ca47cda-65e2-4ce2-bb99-d22a69b98668)
