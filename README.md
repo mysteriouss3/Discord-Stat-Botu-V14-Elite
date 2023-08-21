@@ -5,7 +5,6 @@ Kalite Asla Tesadüf Değildir.
 
 Satın Almak Icin;
 <img width="50%" align="right" src="https://luppufy-api.onrender.com/member/638161683717554217">
-<div align="left" width="100%">
 
 ![image](https://github.com/mysteriouss3/advanced-stat-bot/assets/142053394/7ca47cda-65e2-4ce2-bb99-d22a69b98668)
 
