@@ -1,7 +1,15 @@
 # advanced-stat-bot
 
 
+Kalite Asla Tesadüf Değildir.
+
+Satın Almak Icin;
+<img width="30%" align="right" src="https://luppufy-api.onrender.com/member/638161683717554217">
+
+
 ![image](https://github.com/mysteriouss3/advanced-stat-bot/assets/142053394/7ca47cda-65e2-4ce2-bb99-d22a69b98668)
+
+![image](https://github.com/mysteriouss3/advanced-stat-bot/assets/142053394/30774c73-e419-4308-bed8-7d776ac62c55)
 
 ![image](https://github.com/mysteriouss3/advanced-stat-bot/assets/142053394/939d0ab7-7e14-4717-b1cf-c5b795998aef)
 
