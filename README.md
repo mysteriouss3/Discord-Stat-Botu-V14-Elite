@@ -2,6 +2,7 @@
 
 
 Kalite Asla Tesadüf Değildir.
+
 Satın Almak Icin ;
 
 Discord: mysterious3
