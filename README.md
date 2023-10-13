@@ -1,4 +1,4 @@
-# advanced-stat-bot
+# Advanced-Stat-Bot
 
 
 # Kalite Asla Tesadüf Değildir.
